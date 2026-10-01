@@ -1,13 +1,13 @@
 {
-  "app": "dnd-dm-helper",
+  "app": "atronos-forge-dm",
   "schemaVersion": 2,
   "type": "campaign-backup",
-  "exportedAt": "2026-09-29T08:48:48.308Z",
+  "exportedAt": "2026-10-01T13:00:47.232Z",
   "data": {
     "encounters": [
       {
         "schemaVersion": 1,
-        "type": "dnd-dm-helper-encounter",
+        "type": "atronos-forge-dm-encounter",
         "tags": [],
         "participants": [
           {
@@ -392,7 +392,7 @@
       },
       {
         "schemaVersion": 1,
-        "type": "dnd-dm-helper-encounter",
+        "type": "atronos-forge-dm-encounter",
         "tags": [],
         "participants": [
           {
@@ -1959,7 +1959,7 @@
       },
       {
         "schemaVersion": 1,
-        "type": "dnd-dm-helper-encounter",
+        "type": "atronos-forge-dm-encounter",
         "tags": [],
         "participants": [
           {
@@ -2114,7 +2114,7 @@
       },
       {
         "schemaVersion": 1,
-        "type": "dnd-dm-helper-encounter",
+        "type": "atronos-forge-dm-encounter",
         "id": "41deff0d-64c8-4b01-a6bc-31e7cca73417",
         "title": "Combate contra ecos",
         "createdAt": 1788731533592,
@@ -2795,7 +2795,7 @@
       },
       {
         "schemaVersion": 1,
-        "type": "dnd-dm-helper-encounter",
+        "type": "atronos-forge-dm-encounter",
         "id": "9f0fe9ff-921a-4d56-8883-5236de04b59a",
         "title": "Briga do descanso",
         "createdAt": 1785700948509,
@@ -3367,7 +3367,7 @@
       },
       {
         "schemaVersion": 1,
-        "type": "dnd-dm-helper-encounter",
+        "type": "atronos-forge-dm-encounter",
         "id": "9cee5bc9-8eed-41a6-8639-6affa5bbb8f7",
         "title": "Teste 2 - Party contra chimera",
         "createdAt": 1783107802885,
@@ -3506,7 +3506,7 @@
       },
       {
         "schemaVersion": 1,
-        "type": "dnd-dm-helper-encounter",
+        "type": "atronos-forge-dm-encounter",
         "id": "1a484163-4d96-4bb3-9e6a-a181cabea191",
         "title": "Teste 1 (Ettin)",
         "createdAt": 1783107731605,
@@ -60005,7 +60005,7 @@
         "enabled": true,
         "mode": "external",
         "levelMode": "xp-derived",
-        "externalUrl": "https://raw.githubusercontent.com/Joao-Vtr-Oliveira/atronos-forge-dm/refs/heads/main/rpg_files/campaign-xp.json"
+        "externalUrl": "https://raw.githubusercontent.com/Joao-Vtr-Oliveira/rpg_files/refs/heads/main/atronos-forge-dm/campaign-xp.json"
       },
       "externalSnapshot": {
         "app": "dnd-dm-helper",
