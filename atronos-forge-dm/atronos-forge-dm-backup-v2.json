@@ -60005,7 +60005,7 @@
         "enabled": true,
         "mode": "external",
         "levelMode": "xp-derived",
-        "externalUrl": "https://raw.githubusercontent.com/Joao-Vtr-Oliveira/dnd-dm-helper/refs/heads/main/rpg_files/campaign-xp.json"
+        "externalUrl": "https://raw.githubusercontent.com/Joao-Vtr-Oliveira/atronos-forge-dm/refs/heads/main/rpg_files/campaign-xp.json"
       },
       "externalSnapshot": {
         "app": "dnd-dm-helper",
